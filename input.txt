@@ -1,0 +1,5 @@
+This is a text file.
+It contains facts bout python.
+Python is fun and exciting!
+Python is an interpreted, high-level programming language used in rapid application development.
+Python is a popular and one of the most used programming languages.
